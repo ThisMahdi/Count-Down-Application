@@ -12,7 +12,7 @@ As it's expected, with this app you have a nice Countdown. What parameters we ha
 
 * `Seconds`
 
-Easly replace your Countdown time to abd hit Start to START! after countdown timer finished you will notify ;)
+Easly replace your Countdown time to app and hit Start to START! after countdown timer finished you will notify ;)
 
 ## Requirements :
 
