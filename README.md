@@ -14,6 +14,10 @@ As it's expected, with this app you have a nice Countdown. What parameters we ha
 
 Easly replace your Countdown time to app and hit Start to START! after countdown timer finished you will notify ;)
 
+## Screenshots
+![sc1](https://s19.picofile.com/file/8438055318/CountDownApplication.jpg)
+
+
 ## Requirements :
 
 if you don't wanna use .exe file, and wanna use this code, these modules needs to be installed on your operating system.
